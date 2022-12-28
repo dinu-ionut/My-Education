@@ -47,11 +47,15 @@ def check_guess(mylist, guess):
 ## Interactiunea functiilor:
 
 ### Salvam rezultatul functiei shuffle_list intr o variabila numita mixedup_list
+```
 mixedup_list = shuffle_list(mylist)
+```
 
 ### Salvam rezultatul functiei player_guess() intr o variabila guess_player
-
+```
 guess_player = player_guess()
-
+```
 ### Apelam functia check_guess(mixedup_list, guess_player)
-
+```
+check_guess(mixedup_list, guess_player)
+```
