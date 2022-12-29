@@ -1,6 +1,8 @@
-# MyEducation
-Exercitii invatare Python
-### __Exercitiu: Se dau 3 pahare. O bila se afla sub unul din cele 3 pahare. Jucatorul trebuie sa aleaga un pahar. Daca bila este acolo, a castigat, daca nu, a pierdut__
+# $\textcolor{red}{My\ Education}$ 
+$\textcolor{blue}{Exercitii\ functii\ Python\}$
+
+
+## Exercitiu:  Se dau 3 pahare. O bila se afla sub unul din cele 3 pahare. Jucatorul trebuie sa aleaga un pahar. Daca bila este acolo, a castigat, daca nu, a pierdut
 
 ### Din modulul random importam functia shuffle
 ```
